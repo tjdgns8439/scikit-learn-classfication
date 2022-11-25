@@ -1,5 +1,5 @@
 #PLEASE WRITE THE GITHUB URL BELOW!
-#https://github.com/tjdgns8439/scikit-learn-classfication.git
+#https://github.com/tjdgns8439/scikit-learn-classfication/blob/0af93654cb5dca33f6ee791cdac0bc44d1d12a23/template.py
 
 import sys
 import pandas as pd
